@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "startuphub": {
+      "url": "https://www.startuphub.ai/api/v1/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY"
+      }
+    }
+  }
+}
